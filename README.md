@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Srinivasa Raju
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Elixir
+- 🌱 I’m currently learning Elixir & quarkus
 - 💞️ I’m looking to collaborate any thing related to tech.
 - 📫 mail me at srinivasarajui@gmail.com
 
