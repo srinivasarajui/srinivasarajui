@@ -4,7 +4,7 @@
 - 📫 mail me at srinivasarajui@gmail.com
 - 💼 I work for [kelp](https://www.kelpglobal.com/) as Head of engineering.
 - 🔧 I am spending my free time building [Purna Poker](https://github.com/srinivasarajui/purna-poker) a free to use and opensource Scrum estimation tool. 
-- 💞️ I’m looking to collaborate on building new fraeworks or tools which help the community at large.
+- 💞️ I’m looking to collaborate on building new frameworks or tools which help the community at large.
 
 
 <!---
