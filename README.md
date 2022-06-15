@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Srinivasa Raju
 - 👀 I’m interested in anything related Programmig.
-- 🌱 I’m currently learning Elixir & RemixJS
+- 🌱 I’m currently learning Rust 🦀 & RemixJS 🏳️‍🌈
 - 📫 mail me at srinivasarajui@gmail.com
 - 💼 I work for [kelp](https://www.kelpglobal.com/) as Head of engineering.
 - 🔧 I am spending my free time building [Purna Poker](https://github.com/srinivasarajui/purna-poker) a free to use and opensource Scrum estimation tool. 
